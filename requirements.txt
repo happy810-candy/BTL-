@@ -1,4 +1,6 @@
-treamlit
+streamlit
 pandas
-google-generativeai
-openpyxl 
+numpy
+scikit-learn
+plotly
+requests
